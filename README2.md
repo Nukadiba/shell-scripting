@@ -1,10 +1,6 @@
 ## 1. Commenting 
 ![](./img/commenting.png)
 
-## 2. Confirming folders creation 
-![](./img/folder_creation.png)
+## 2. Adding executable permission to the script and ensuring it runs 
 
-
-## 3. Confirming users creation 
-
-![](./img/user_creation.png)
+![](./img/execting_the%20_Hello_world.png)
